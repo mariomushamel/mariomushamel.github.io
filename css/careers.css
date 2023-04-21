@@ -51,11 +51,11 @@ body{
 
 .header .navbar ul li a{
     font-size: 2rem;
-    color: #fff;
+    color: #000;
 }
 
 .header .navbar ul li a:hover{
-    color: #00bfff;
+    color: #000;
     text-decoration: underline;
 }
 
@@ -64,7 +64,7 @@ body{
 }
 
 .header .fa-bars{
-    color: #fff;
+    color: #000;
     cursor: pointer;
     font-size: 3rem;
     display: none;
@@ -86,7 +86,7 @@ body{
 }
 
 .home h2{
-    color: #fff;
+    color: #000;
     font-size: 5.5rem;
 }
 
@@ -98,7 +98,7 @@ body{
     padding-top: 6rem;
     display: inline-block;
     font-size: 3.5rem;
-    color: #002e5f;
+    color: #000;
     position: relative;
     letter-spacing: .2rem;
     margin: -2rem auto 2rem auto;
@@ -106,7 +106,7 @@ body{
 
 .career-heading p{
     font-size: 2rem;
-    color: #333;
+    color: #000;
 }
 
 .heading::before, .heading::after{
